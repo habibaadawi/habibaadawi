@@ -1,4 +1,4 @@
-<p align="center">"Hello there, I'm Habiba. Let's make this world a better place!" </p>
+<p align="center">"Hello there, I'm Habiba" </p>
 
 <br />
 
