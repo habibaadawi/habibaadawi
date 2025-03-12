@@ -11,9 +11,8 @@ I'm a passionate computer science student from Egypt
 
 - 💬 Ask me about anything [here](20042004ksa@gmail.com)
 
-**Skills**
-- HTML 
-- CSS
+**Skills** 
+- Python
 - C#
 - C++
 
