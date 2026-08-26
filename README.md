@@ -1,45 +1,28 @@
-<p align="center">"Hello there, I'm Habiba" </p>
+### Hi there! I'm Habiba 👋
 
-<br />
+I'm a **Computer Science Graduate** and **AI Engineer** based in Egypt, passionate about building end-to-end intelligent systems, scalable MLOps pipelines, and high-performance machine learning models. 
 
-I'm a passionate computer science student from Egypt
+---
 
-**About me**
+### 💻 Tech Stack & Tools
+* **Languages & Core:** Python, SQL, C++
+* **AI, ML & NLP:** Scikit-Learn, Transformers, PyTorch, Retrieval-Augmented Generation (RAG), Vector Databases (ChromaDB, Qdrant)
+* **MLOps & Engineering:** MLflow, Optuna, Docker, Data Version Control (DVC), FastAPI, Git/GitHub
+* **Frontend & Frameworks:** Flutter, React
 
+---
 
-- ❤️ I love coding and supporting sustainable technology 
+### 🛠️ Featured Projects
 
-- 💬 Ask me about anything [here](20042004ksa@gmail.com)
+* **[Clinical RAG System & 2-Layer Guardrail Microservice](https://github.com/ROQAYA-WALEED/raggers/tree/Raggers_version_02)**
+  * Engineered a custom end-to-end clinical QA pipeline from scratch using a 1.5B Qwen2.5 model and BAAI/bge embeddings.
+  * Implemented a 2-layer safety system achieving **100% page-level citation accuracy** under a 0.25 faithfulness threshold.
+* **[Hybrid POS Tagging System](https://github.com/habibaadawi/NLP_project)**
+  * Built an end-to-end NLP Part-of-Speech tagging pipeline from scratch with full MLOps tracking.
+  * Optimized a Linear SVM model to an **81% F1 score** via automated Bayesian tuning (Optuna) and integrated MLflow, Docker, and DVC.
 
-**Skills** 
-- Python
-- C#
-- C++
+---
 
-<!-- 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-
-
--->
-
+### 📫 Connect With Me
+* **LinkedIn:** [https://www.linkedin.com/in/habiba-adawi-17315727a/]
+* **Email:** [habibaadawi22@gmail.com]
